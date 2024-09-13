@@ -70,7 +70,7 @@
         <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/>
     </a>
     <a href="https://www.odoo.com/" target="_blank" rel="noreferrer">
-        <img src="https://www.vectorlogo.zone/logos/odoo/odoo-icon.svg](https://www.captivea.com/web/image/139679/odoo.png" alt="odoo" width="40" height="40"/>
+        <img src="[https://www.vectorlogo.zone/logos/odoo/odoo-icon.svg](https://www.captivea.com/web/image/139679/odoo.png](https://imgs.search.brave.com/SdqPl3Cqc0VORnO03tK0MJzYJ3_MJyvDDTb7Uccs29s/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly93d3cu/Y2FwdGl2ZWEuY29t/L3dlYi9pbWFnZS8x/Mzk2Nzkvb2Rvby5w/bmc)" alt="odoo" width="40" height="40"/>
     </a>
 </p>
 
