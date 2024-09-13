@@ -70,7 +70,7 @@
         <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/>
     </a>
     <a href="https://www.odoo.com/" target="_blank" rel="noreferrer">
-        <img src="https://www.vectorlogo.zone/logos/odoo/odoo-icon.svg" alt="odoo" width="40" height="40"/>
+        <img src="https://www.vectorlogo.zone/logos/odoo/odoo-icon.svg](https://www.captivea.com/web/image/139679/odoo.png" alt="odoo" width="40" height="40"/>
     </a>
 </p>
 
