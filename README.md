@@ -1,7 +1,7 @@
 [![MasterHead](https://user-images.githubusercontent.com/80781196/190216139-7697aa5a-c9a0-4bd6-80bf-3aca76a2e1c8.gif)](https://rishavhanda.io)
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Nerko+One&size=35&center=true&vCenter=true&width=500&height=70&duration=7000&lines=Hi+There!+👋+I'm+Safa+Suliman!;&color=c8b6ff" />
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Nerko+One&size=35&center=true&vCenter=true&width=500&height=70&duration=7000&lines=Hi+There!+I'm+Safa+Suliman!+💜;&color=c8b6ff" />
 </h1>
 <h3 align="center">A passionate Full Stack Python Developer from Egypt</h3>
 
