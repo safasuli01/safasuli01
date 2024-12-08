@@ -14,11 +14,11 @@
 
 <img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/2366b34bb903c09617990fb5fff4622f3e941349e846ddb7e73df872a9d21233/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966" />
 
--   🔭 I’m currently working on **Django and Flask**
+-   🔭 I’m currently working on **Odoo**
 
--   👨‍💻 All of my projects are available at [My Portfolio](My Portfolio)
+-   👨‍💻 All of my projects are available here.
 
--   💬 Ask me about **Full Stack Development Using Python**
+-   💬 Ask me about **Full Stack Development Using Python or ERP System**
 
 -   📫 How to reach me **safa.suli.2@gmail.com**
 
@@ -69,9 +69,9 @@
     <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer">
         <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/>
     </a>
-<!--     <a href="https://www.odoo.com/" target="_blank" rel="noreferrer">
+    <a href="https://www.odoo.com/" target="_blank" rel="noreferrer">
         <img src="https://www.vectorlogo.zone/logos/odoo/odoo-icon.svg](https://www.captivea.com/web/image/139679/odoo.png(https://imgs.search.brave.com/SdqPl3Cqc0VORnO03tK0MJzYJ3_MJyvDDTb7Uccs29s/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly93d3cu/Y2FwdGl2ZWEuY29t/L3dlYi9pbWFnZS8x/Mzk2Nzkvb2Rvby5w/bmc)" alt="odoo" width="40" height="40"/>
-    </a> -->
+    </a>
 </p>
 
 <h3 align="left">Database: </h3>
