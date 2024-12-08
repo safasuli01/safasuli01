@@ -3,7 +3,7 @@
 <h1 align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?font=Nerko+One&size=35&center=true&vCenter=true&width=500&height=70&duration=7000&lines=Hi+There!+I'm+Safa+Suliman!+💜;&color=c8b6ff" />
 </h1>
-<h3 align="center">A passionate Full Stack Python Developer from Egypt</h3>
+<h3 align="center">A passionate Full Stack Python and Odoo Developer from Egypt</h3>
 
 <p align="left">
     <img src="https://komarev.com/ghpvc/?username=safasuli01&label=Profile%20views&color=0e75b6&style=flat" alt="safasuli01" />
